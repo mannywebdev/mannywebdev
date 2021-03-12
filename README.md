@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mannywebdev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+<h3> - 👋 Hi, I’m @mannywebdev</h3>
+<h3> - 👀 I’m interested in ...</h3>
+<h3> - 🌱 I’m currently learning ...</h3>
+<h3>- 💞️ I’m looking to collaborate on ...</h3>
 <h3> - 📫 How to reach me ...</h3>
 
 <!---
