@@ -14,6 +14,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/mannywebdev/Berlywud">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mannywebdev&show_icons=true&include_all_commits=true&theme=vue" alt="Manpreet github stats" />
   </a>
-  <a href="https://github.com/mannywebdev/Berlywuds">
+  <a href="https://github.com/mannywebdev/Berlywud">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannywebdev&layout=compact&theme=vue"/>
   </a>
