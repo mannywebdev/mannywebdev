@@ -1,7 +1,5 @@
 <h3> - 👋 Hi, I’m @mannywebdev</h3>
-<h3> - 👀 I’m interested in ...</h3>
-<h3> - 🌱 I’m currently learning ...</h3>
-<h3>- 💞️ I’m looking to collaborate on ...</h3>
+
 <h3> - 📫 How to reach me <a href="https://www.linkedin.com/in/manpreet-singh-a990641a0/" target="_blank">Linkedin</a> <a href="mailto:mannyvirdi98@gmail.com@gmail.com"         target="_blank">Gmail</a></h3>
 
 <!---
